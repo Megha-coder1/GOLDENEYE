@@ -30,7 +30,7 @@ import logging
 import http.client
 
 # Config
-DEBUG = False
+DEBUG = True
 SSLVERIFY = True
 
 # Constants
