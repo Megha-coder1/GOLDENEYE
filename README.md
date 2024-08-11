@@ -22,7 +22,7 @@ To use GoldenEye, navigate to the location of `goldeneye/` and run:
 | `-w`, `--workers`   | Number of concurrent workers                      | 50                         |
 | `-s`, `--sockets`   | Number of concurrent sockets                      | 30                         |
 | `-m`, `--method`    | HTTP Method to use ('get', 'post', or 'random')   | get                        |
-| `-d`, `--debug`     | Enable Debug Mode (more verbose output)           | False                      |
+| `-d`, `--debug`     | Enable Debug Mode (more verbose output)           | True                      |
 | `-n`, `--nosslcheck`| Do not verify SSL Certificate                      | True                       |
 | `-h`, `--help`      | Shows this help message                           |                            |
 
